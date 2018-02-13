@@ -104,7 +104,7 @@ public class Main {
     String var="",result;
     Boolean statement = false,res = false;
   
-    while(res == false)
+    while(res == false && player <= 42)
     {
       cnt=5;
       result = "";
